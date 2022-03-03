@@ -7,7 +7,7 @@ My current and personal account is https://github.com/onikakimasiao
 Currently finishing my course as Web Developer. 
 
 ### Skills
-
+<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/MySQL-Logo.wine.png" height="150"/>
 
 ## GitHub Stats:
 <img align="center" src="https://api.mygitstats.com/svg/74007996" height="150"/>
