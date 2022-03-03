@@ -7,14 +7,14 @@ My current and personal account is https://github.com/onikakimasiao
 Currently finishing my course as Web Developer. 
 
 ### Skills
-<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/MySQL-Logo.wine.png" height="100"/>
-<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/html-js-css.png" height="100"/>
-<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/java.png" height="100"/>
-<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/logo_laravel.png" height="100"/>
-<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/mongodb.png" height="100"/>
-<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/php.png" height="100"/>
-<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/psql.png" height="100"/>
-<img align="center" src="https://github.com/oasiao/oasiao/blob/main/images/sass.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/MySQL-Logo.wine.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/html-js-css.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/java.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/logo_laravel.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/mongodb.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/php.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/psql.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/sass.png" height="100"/>
 
 ## GitHub Stats:
 <img align="center" src="https://api.mygitstats.com/svg/74007996" height="150"/>
