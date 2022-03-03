@@ -1,3 +1,6 @@
+# Main profile
+https://github.com/onikakimasiao
+
 <!--
 **oasiao/oasiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### GitHub Stats:
+# GitHub Stats:
 
 <img align="center" src="https://api.mygitstats.com/svg/74007996" height="150"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oasiao&show_icons=true&theme=dracula&hide_title=true&show_icons=true&count_private=true" height="150"/>
