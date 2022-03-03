@@ -6,7 +6,7 @@ My current and personal account is https://github.com/onikakimasiao
 #### Click here to see <a href="https://resume.github.io/?oasiao">my resume</a>
 
 ## About me
-Currently finishing my course as Web Developer. 
+Currently finishing my course as Web Developer. Wishing to become a full-stack developer.
 
 ### Skills
 <div>
