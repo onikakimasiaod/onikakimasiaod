@@ -15,6 +15,10 @@ Currently finishing my course as Web Developer.
 <img src="https://github.com/oasiao/oasiao/blob/main/images/php.png" height="100"/>
 <img src="https://github.com/oasiao/oasiao/blob/main/images/psql.png" height="100"/>
 <img src="https://github.com/oasiao/oasiao/blob/main/images/sass.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/vue.png" height="100"/>
+<img src="https://github.com/oasiao/oasiao/blob/main/images/node-js.png" height="100"/>
+
+Basic of Python, C++, R and LaTeX.
 
 ## GitHub Stats:
 <img align="center" src="https://api.mygitstats.com/svg/74007996" height="150"/>
