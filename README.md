@@ -8,20 +8,20 @@ Currently finishing my course as Web Developer.
 
 ### Skills
 <div>
-  <img src="https://github.com/oasiao/oasiao/blob/main/images/logo_laravel.png" height="80"/>
+  <img src="https://github.com/oasiao/oasiao/blob/main/images/logo_laravel.png" height="50"/>
   <img src="https://github.com/oasiao/oasiao/blob/main/images/MySQL-Logo.wine.png" height="100"/>
   <img src="https://github.com/oasiao/oasiao/blob/main/images/html-js-css.png" height="80"/>
-  <img src="https://github.com/oasiao/oasiao/blob/main/images/java.png" height="80"/>
-  <img src="https://github.com/oasiao/oasiao/blob/main/images/mongodb.png" height="50"/>
+  <img src="https://github.com/oasiao/oasiao/blob/main/images/java.png" height="50"/>
+  <img src="https://github.com/oasiao/oasiao/blob/main/images/mongodb.png" height="30"/>
   <img src="https://github.com/oasiao/oasiao/blob/main/images/php.png" height="50"/>
   <img src="https://github.com/oasiao/oasiao/blob/main/images/psql.png" height="50"/>
   <img src="https://github.com/oasiao/oasiao/blob/main/images/sass.png" height="50"/>
   <img src="https://github.com/oasiao/oasiao/blob/main/images/bootstrap.png" height="50"/>
-<img src="https://github.com/oasiao/oasiao/blob/main/images/vue.png" height="100"/>
-<img src="https://github.com/oasiao/oasiao/blob/main/images/node-js.png" height="100"/>
+  <img src="https://github.com/oasiao/oasiao/blob/main/images/vue.png" height="50"/>
+  <img src="https://github.com/oasiao/oasiao/blob/main/images/node-js.png" height="50"/>
  </div>
 
-Basic of Python, C++, R and LaTeX.
+#### Basic of Python, C++, R and LaTeX
 
 ## GitHub Stats:
 <img align="center" src="https://api.mygitstats.com/svg/74007996" height="150"/>
