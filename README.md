@@ -1,8 +1,5 @@
 # Kimmy's github
 ## Hi there 👋
-Not my personal account, but where and how I started. Here I have my school's projects. <br>
-My current and personal account is https://github.com/onikakimasiao
-
 #### Click here to see <a href="https://resume.github.io/?oasiao">my resume</a>
 
 ## About me
