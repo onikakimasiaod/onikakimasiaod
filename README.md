@@ -29,8 +29,8 @@ Currently finishing my course as Web Developer. Wishing to become a full-stack d
 
 ### GitHub Stats
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oasiao&show_icons=true&theme=dracula&hide_title=true&show_icons=true&count_private=true" height="150"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=onikakimasiaod&show_icons=true&theme=dracula&hide_title=true&show_icons=true&count_private=true" height="150"/>
 </div>
 
 ### Most used languages
-<img align="center" src="https://api.mygitstats.com/svg/74007996" height="150"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onikakimasiaod&layout=compact)
