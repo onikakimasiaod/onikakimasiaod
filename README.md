@@ -1,9 +1,8 @@
 # Kimmy's github
 ## Hi there 👋
-#### Click here to see <a href="https://resume.github.io/?oasiao">my resume</a>
 
 ## About me
-Currently finishing my course as Web Developer. Wishing to become a full-stack developer.
+Just graduated from Web Development course. Currently doing my OJT's in World2Meet.
 
 ### Skills
 <div>
@@ -23,9 +22,6 @@ Currently finishing my course as Web Developer. Wishing to become a full-stack d
 #### Basic of Python, C++, R and LaTeX
 
 ## My work as web developer
-### GitHub metrics of my two accounts
-![GitHub metrics](https://metrics.lecoq.io/onikakimasiao)<br>
-![GitHub metrics](https://metrics.lecoq.io/oasiao)<br>
 
 ### GitHub Stats
 <div>
