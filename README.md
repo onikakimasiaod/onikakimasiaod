@@ -1,6 +1,6 @@
 # Kimmy's github
 ## Hi there 👋
-Just graduated from Web Development course. Currently doing my OJT's in World2Meet.
+Just graduated from Web Development course. Currently working in World2Meet.
 
 ### Skills
 <div>
